@@ -39,21 +39,23 @@ unused：
 
 ## 翻转电镜 控制
 
-892 flipper card.qxd (newport.com)
+[892 flipper card.qxd (newport.com)](https://www.newport.com/medias/sys_master/images/images/hce/hfe/9159114457118/8893-Manual.pdf)
 
 rigol电源控制翻转
 
 ## 编写界面
 
 Reference：
-QT designer介绍 - 知乎 (zhihu.com)
 
-《快速掌握PyQt5》第十四章 快速制作界面——Qt Designer - 知乎 (zhihu.com)
+[QT designer介绍 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/348032800)
+
+[《快速掌握PyQt5》第十四章 快速制作界面——Qt Designer - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/75561049)
 
 Problems：
-PyQt5程序报错：TypeError: argument 1 has unexpected type 'NoneType'的解决办法_David-hu的博客-CSDN博客
 
-pyqt5按钮点击时传递参数（通过lambda表达式）_whuzhang16的博客-CSDN博客_pyqt按钮点击事件带参数![image](https://user-images.githubusercontent.com/51507600/173515474-16e9978b-e452-4280-9e22-2760f57e6f9c.png)
+[PyQt5程序报错：TypeError: argument 1 has unexpected type 'NoneType'的解决办法_David-hu的博客-CSDN博客](https://blog.csdn.net/weixin_45182409/article/details/105409594)
+
+[pyqt5按钮点击时传递参数（通过lambda表达式）_whuzhang16的博客-CSDN博客_pyqt按钮点击事件带参数](https://blog.csdn.net/whuzhang16/article/details/109364565?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_default)
 
 
 
