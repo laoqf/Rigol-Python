@@ -5,7 +5,7 @@ In this project, I create a GUI to control RIGOL DP832A(with LAN) or RIGOL DP832
 
 In our lab, we use DP832A to control oven, PMT and flip mount.
 
-## note：
+# note：
 
 调用pyvisa找到对应的仪器，传输SCPI命令，见产品说明书
 
